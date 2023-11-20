@@ -11,6 +11,7 @@ The bundled code can be used in a browser. Project uses jest and ts-jest for tes
 
 ### Template project uses for transpiling typescript
 - [Typescript](https://www.typescriptlang.org/)
+- The typescript uses commonjs modules is transpiled to es2016 
 
 ### How to use
 - Clone this repo
