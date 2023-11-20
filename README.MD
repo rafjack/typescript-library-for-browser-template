@@ -14,11 +14,12 @@ The bundled code can be used in a browser. Project uses jest and ts-jest for tes
 - The typescript uses commonjs modules is transpiled to es2016 
 
 ### How to use
-- Run `npm install`
-- Run `npm run build` for building the project
-- Run `npm start` for starting dev server
-- Run `npm run test` for testing
-- Run `npm run testandwatch` for testing and development cycle
+- Get [Node.js](https://nodejs.org/en/) and install it 
+- In the working directory run `npm install`
+- `npm run build` for building the project
+- `npm start` for starting dev server
+- `npm run test` for testing
+- `npm run testandwatch` for testing and development cycle
  
  
  

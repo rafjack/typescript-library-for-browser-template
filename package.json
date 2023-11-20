@@ -1,7 +1,7 @@
 {
-  "name": "parcel-project",
+  "name": "typescript-parcel-jest-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "A boilerplate for using TypeScript with Parcel and Jest",
   "scripts": {
     "test": "jest",
     "testandwatch": "jest --watch",
