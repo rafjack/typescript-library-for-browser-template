@@ -14,7 +14,6 @@ The bundled code can be used in a browser. Project uses jest and ts-jest for tes
 - The typescript uses commonjs modules is transpiled to es2016 
 
 ### How to use
-- Clone this repo
 - Run `npm install`
 - Run `npm run build` for building the project
 - Run `npm start` for starting dev server
